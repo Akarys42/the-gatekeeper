@@ -1,4 +1,5 @@
-# Python Docker Template
-Basic template for a Poetry based Python app, including linting and Docker
+# The Gatekeeper
 
-Make sure to update the license file! The MIT license with my header only applies to this template.
+Simple Discord bot meant to require people to verify themselves before they can access the rest of the server.
+
+Intended for personal use.

@@ -7,3 +7,5 @@ services:
     volumes:
       - .:/app:rw
     tty: true
+    environment:
+      - DEBUG=true
